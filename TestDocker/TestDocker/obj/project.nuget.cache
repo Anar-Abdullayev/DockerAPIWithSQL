@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUcLtEBVG6w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anar-VMInt\\Desktop\\TestDocker\\TestDocker\\TestDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anar-VMInt\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
